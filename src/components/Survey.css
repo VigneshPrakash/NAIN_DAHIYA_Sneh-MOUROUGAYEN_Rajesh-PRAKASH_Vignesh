@@ -1,0 +1,15 @@
+.Survey-input
+{
+    padding: 8px 20px;
+    margin: 8px 30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.Survey-display{
+    background-color: grey;
+    border: outset;
+    padding: 11px 20px;
+}

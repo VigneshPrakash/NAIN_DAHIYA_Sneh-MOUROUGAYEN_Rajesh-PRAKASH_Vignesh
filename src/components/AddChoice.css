@@ -1,0 +1,23 @@
+.AddChoice-input
+{
+    padding: 8px 20px;
+    margin: 8px 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.AddChoice-button
+{
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    margin: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.AddChoice-button:hover {
+    background-color: #195817;
+}
